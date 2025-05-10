@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KPIPractice2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1414dff8c8687c2ab85377d6502de7700777865")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd62127774be533548ac628144f5d04ceb17f40e")]
 [assembly: System.Reflection.AssemblyProductAttribute("KPIPractice2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KPIPractice2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

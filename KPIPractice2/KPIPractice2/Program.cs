@@ -15,4 +15,8 @@ void ExecuteTasks()
     task4.Main();
     Task5 task5=new Task5();
     task5.Main();
+    Task6 task6=new Task6();
+    task6.Main();
+    Task7 task7=new Task7();
+    task7.Main();
 }

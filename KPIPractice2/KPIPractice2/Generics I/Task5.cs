@@ -8,7 +8,7 @@
         public void Main()
         {
             Console.WriteLine(Add(2,3));
-            Console.WriteLine(Add('f','k'));
+           // Console.WriteLine(Add("w","s"));
         }
         static T Add<T>(T a, T b) where T : struct
         {
