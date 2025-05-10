@@ -6,7 +6,10 @@
     // - Метод void SendPackage<T>(T c) where T:DeliveryCenter,IDelivery { c.Deliver(); }.
     public class Task7
     {
-        public void Main() { }
+        public void Main()
+        {
+
+        }
     }
 
 }

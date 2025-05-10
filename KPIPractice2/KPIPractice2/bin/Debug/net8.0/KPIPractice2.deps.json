@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "KPIPractice2/1.0.0": {
+        "runtime": {
+          "KPIPractice2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KPIPractice2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

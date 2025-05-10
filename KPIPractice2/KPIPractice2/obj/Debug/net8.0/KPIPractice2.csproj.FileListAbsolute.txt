@@ -1,0 +1,15 @@
+/Users/yuki/Documents/GitHub/KPI/KPIPractice2/KPIPractice2/bin/Debug/net8.0/KPIPractice2
+/Users/yuki/Documents/GitHub/KPI/KPIPractice2/KPIPractice2/bin/Debug/net8.0/KPIPractice2.deps.json
+/Users/yuki/Documents/GitHub/KPI/KPIPractice2/KPIPractice2/bin/Debug/net8.0/KPIPractice2.runtimeconfig.json
+/Users/yuki/Documents/GitHub/KPI/KPIPractice2/KPIPractice2/bin/Debug/net8.0/KPIPractice2.dll
+/Users/yuki/Documents/GitHub/KPI/KPIPractice2/KPIPractice2/bin/Debug/net8.0/KPIPractice2.pdb
+/Users/yuki/Documents/GitHub/KPI/KPIPractice2/KPIPractice2/obj/Debug/net8.0/KPIPractice2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuki/Documents/GitHub/KPI/KPIPractice2/KPIPractice2/obj/Debug/net8.0/KPIPractice2.AssemblyInfoInputs.cache
+/Users/yuki/Documents/GitHub/KPI/KPIPractice2/KPIPractice2/obj/Debug/net8.0/KPIPractice2.AssemblyInfo.cs
+/Users/yuki/Documents/GitHub/KPI/KPIPractice2/KPIPractice2/obj/Debug/net8.0/KPIPractice2.csproj.CoreCompileInputs.cache
+/Users/yuki/Documents/GitHub/KPI/KPIPractice2/KPIPractice2/obj/Debug/net8.0/KPIPractice2.sourcelink.json
+/Users/yuki/Documents/GitHub/KPI/KPIPractice2/KPIPractice2/obj/Debug/net8.0/KPIPractice2.dll
+/Users/yuki/Documents/GitHub/KPI/KPIPractice2/KPIPractice2/obj/Debug/net8.0/refint/KPIPractice2.dll
+/Users/yuki/Documents/GitHub/KPI/KPIPractice2/KPIPractice2/obj/Debug/net8.0/KPIPractice2.pdb
+/Users/yuki/Documents/GitHub/KPI/KPIPractice2/KPIPractice2/obj/Debug/net8.0/KPIPractice2.genruntimeconfig.cache
+/Users/yuki/Documents/GitHub/KPI/KPIPractice2/KPIPractice2/obj/Debug/net8.0/ref/KPIPractice2.dll
